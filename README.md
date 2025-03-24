@@ -1,4 +1,4 @@
-#Optimal Portfolio Allocation
+# Optimal Portfolio Allocation
 
 This project focuses on optimizing asset allocation in an investment portfolio for a firm managing client portfolios. The goal is to develop a program that determines the optimal distribution of assets to maximize expected return while keeping risk within a specified tolerance level.
 
